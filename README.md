@@ -11,7 +11,7 @@ This is a basic theme for Blogotext
 
 - Requirements
   * Blogotext 2.0.2.x
-  * A CSS3 / HTML5 compatible Browser (Firefox, Opera…)
+  * A CSS3 / HTML5 compatible Browser (Firefox, Operaâ€¦)
 
 - Installation
   * Unzip the downloaded file (last release : https://github.com/blogotext-theme/basic/releases)
